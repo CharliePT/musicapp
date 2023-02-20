@@ -1,0 +1,18 @@
+#album-cover {
+    margin: 10px;
+}
+
+#gallery {
+    width: 1000px
+}
+
+.album{
+    width:200px;
+    text-align:center;
+    display:block;
+    background-color: transparent;
+    border: 1px solid transparent;
+    margin: 10px;
+    margin-bottom: 1px;
+    float:left;
+  }
